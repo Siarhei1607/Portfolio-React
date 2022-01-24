@@ -1,0 +1,23 @@
+{
+    "experiences": [
+        {
+            "title": "Frontend Developer(React)",
+            "subtitle": "Programming mentoring program by Change.by",
+            "workDescription": [
+                "Learned frontend development with help of actual developers",
+                "Made several training templates with HTML and CSS",
+                "Solved a lot of training problems on Codewars.com in Javascript and Typescript",
+                "Had several exercise technical interviews with real developers to reinforce my knowledge",
+                "Worked on feature implementation and refactoring real project with React and GraphQL"
+            ],
+            "dateText": "04/2021 – now time"
+        },
+        {
+            "title": " Process plant operator",
+            "subtitle": "Mozyr Oil Refinery",
+            "workType": "Full-time work",
+            "workDescription": [],
+            "dateText": "08/2015 – 01/2021"
+        }
+    ]
+}

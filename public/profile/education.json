@@ -1,0 +1,17 @@
+{
+    "education":[
+        {
+            "title": "September 2015 - July 2020",
+            "cardTitle": "Russian University of Chemical Technology named after D.I Mendeleev",
+            "cardSubtitle":" Chemistry and technology of basic organic and petrochemical synthesis",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "September 2011 - July 2015",
+            "cardTitle": " Mozyr State Polytechnic College",
+            "cardSubtitle":" Oil and gas processing"
+        }
+    ]
+}
