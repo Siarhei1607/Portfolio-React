@@ -19,7 +19,7 @@
         {
             "image" : "images/projects/georgia.png",
             "title": "OpenGeorgia - excursion Georgia App",
-            "bodyText": "- A OpenGeorgia web app made using **React**.\n - People can find a suitable excursion for themselves and book it.\n - Deployed on firebase.",
+            "bodyText": "- A OpenGeorgia web app made using **React**.\n - People can find a suitable excursion for themselves and book it.\n - Added User authentication and password reset.",
             "links": [
                 {
                     "text": "Live",
@@ -31,6 +31,21 @@
                 "Redux",
                 "GraphQl",
                 "mongoDB"
+            ]
+        },
+        {
+            "image" : "images/projects/verstka.png",
+            "title": "Transportation website layout",
+            "bodyText": "- Adaptability to different user screens.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": ""
+                }
+            ],
+            "tags" : [
+                "HTML",
+                "CSS"
             ]
         }
     ]
